@@ -6,7 +6,7 @@ int main()
 {
     char sample[] = "GeeksforGeeks";
 
-    cout << sample << " - A computer science portal for geeks";
+    cout << sample << " - tal for geeks";
 
     return 0;
 }
